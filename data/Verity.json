@@ -14,7 +14,14 @@
             "link": "https://youtu.be/sZxnLvYx2ms",
             "percent": 100,
             "hz": 120
-        }
+        },
+
+        {
+            "user": "Gerthel",
+            "link": "https://www.youtube.com/watch?v=5u4DQXQdnAY",
+            "percent": 100,
+            "hz": 60
+       }
 
     ]
 }
