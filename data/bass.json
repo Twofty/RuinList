@@ -1,1 +1,22 @@
+{
+    "id": 100038263,
+    "name": "Bass",
+    "author": "Wav",
+    "creators": ["Wav"],
+    "verifier": "Pere6464",
+    "verification": "https://youtu.be/ihGP0q5nIw8",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+        {
+            "user": "Twoft",
+            "link": "https://youtu.be/AD1Ss8ZU3Dc",
+            "percent": 100,
+            "hz": 144
+        }
+
+        
+
+    ]
+}
