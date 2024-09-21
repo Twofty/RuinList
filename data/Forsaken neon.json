@@ -9,12 +9,20 @@
     "password": "Free to copy",
     "records": [
 
-                     {
+         {
             "user": "Twoft",
             "link": "https://www.youtube.com/watch?v=ClDC6OVZYOM&t=25s",
             "percent": 100,
             "hz": 144
-       }
+       },
+
+        {
+            "user": "Vairok",
+            "link": "https://youtu.be/iZwYIS4RBsM",
+            "percent": 100,
+            "hz": 60
+        }
+     
 
     ]
 }
