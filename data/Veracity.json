@@ -1,6 +1,6 @@
 {
     "id": 94314678,
-    "name": "Veracity",
+    "name": "VeracitY",
     "author": "BlueLite",
     "creators": ["BlueLite"],
     "verifier": "Twoft",
@@ -8,6 +8,13 @@
     "percentToQualify": "100",
     "password": "Free to copy",
     "records": [
+
+        {
+            "user": "Pere6464",
+            "link": "https://www.youtube.com/watch?v=twOp7TVf6WM",
+            "percent": 100,
+            "hz": 120
+       }
 
 
 
