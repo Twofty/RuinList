@@ -1,1 +1,20 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "Ggb0y",
+    "creators": ["Ggb0y"],
+    "verifier": "Twoft",
+    "verification": "https://www.youtube.com/watch?v=AhrDXvrtQQg",
+    "percentToQualify": "52",
+    "password": "Free to copy",
+    "records": [
 
+        {
+            "user": "Gerthel",
+            "link": "https://www.youtube.com/watch?v=HTuSerTsmyc",
+            "percent": 100,
+            "hz": 60
+        }
+
+    ]
+}
