@@ -1,1 +1,27 @@
+{
+    "id": 4957691,
+    "name": "Windy landscape",
+    "author": "woogi1411",
+    "creators": ["woogi1411"],
+    "verifier": "Twoft",
+    "verification": "https://www.youtube.com/watch?v=ga-mG_2sjA8&t=15s",
+    "percentToQualify": "89",
+    "password": "Free to copy",
+    "records": [
 
+           {
+            "user": "Pere6464",
+            "link": "https://www.youtube.com/watch?v=iLFlqoUly2c",
+            "percent": 100,
+            "hz": 120
+       },
+
+        {
+            "user": "Miguelito4000",
+            "link": "https://youtu.be/ld6XeYvbDB0",
+            "percent": 100,
+            "hz": 120
+       }
+
+    ]
+}
