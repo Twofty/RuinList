@@ -1,1 +1,30 @@
+{
+    "id": 62434757,
+    "name": "Absolute Zero",
+    "author": "ToastLord",
+    "creators": ["ToastLord"],
+    "verifier": "Vairok",
+    "verification": "https://youtu.be/zYFyYdTtZ5g",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+      {
+            "user": "Twoft",
+            "link": "https://youtu.be/ElMWuSdJ4yE",
+            "percent": 100,
+            "hz": 244
+       },
+
+        {
+            "user": "Pere6464",
+            "link": "https://youtu.be/VA-WH89Fo64",
+            "percent": 100,
+            "hz": 120
+       }
+
+
+    
+
+    ]
+}
