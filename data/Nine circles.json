@@ -1,1 +1,27 @@
+{
+    "id": 4284013,
+    "name": "Nine circles",
+    "author": "Zobros",
+    "creators": ["Zobros"],
+    "verifier": "Gerthel",
+    "verification": "https://www.youtube.com/watch?v=Vfly0cBiZbg",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+             {
+            "user": "Twoft",
+            "link": "https://www.youtube.com/watch?v=8CHmTigOZOU",
+            "percent": 100,
+            "hz": 144
+       },
+
+      {
+            "user": "Pere6464",
+            "link": "https://youtu.be/W2aHI6_i9Xw",
+            "percent": 100,
+            "hz": 120
+       }
+
+    ]
+}
