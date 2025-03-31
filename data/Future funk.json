@@ -1,1 +1,27 @@
+{
+    "id": 44062068,
+    "name": "Future funk",
+    "author": "jonathanGD",
+    "creators": ["jonathanGD"],
+    "verifier": "Gerthel",
+    "verification": "https://www.youtube.com/watch?v=a_PtK_pywIo",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+        {
+            "user": "Vairok",
+            "link": "https://youtu.be/We7htOi6Rfk",
+            "percent": 100,
+            "hz": 60
+       },
+
+        {
+            "user": "Pere6464",
+            "link": "https://youtu.be/gRVWZIup17g",
+            "percent": 100,
+            "hz": 120
+       }
+
+    ]
+}
