@@ -1,1 +1,25 @@
+{
+    "id": 15122517,
+    "name": "Lit fuse",
+    "author": "Krmal",
+    "creators": ["Krmal"],
+    "verifier": "Pere6464",
+    "verification": "https://www.youtube.com/watch?v=PZGhTjP90aw&t=129s",
+    "percentToQualify": "76",
+    "password": "Free to copy",
+    "records": [
+       {
+            "user": "Twoft",
+            "link": "https://www.youtube.com/watch?v=zwqIIc53DAs&t=55s",
+            "percent": 100,
+            "hz": 144
+       },
 
+        {
+            "user": "Miguelito4000",
+            "link": "https://youtu.be/msE-emWUnbA",
+            "percent": 100,
+            "hz": 120
+       }
+    ]
+}
