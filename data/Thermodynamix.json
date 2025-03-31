@@ -1,1 +1,50 @@
+{
+    "id": 38445559,
+    "name": "Thermodynamix",
+    "author": "flash",
+    "creators": ["flash"],
+    "verifier": "Gerthel",
+    "verification": "https://www.youtube.com/watch?v=LCAV7zbZUIk",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+           {
+            "user": "Twoft",
+            "link": "https://www.youtube.com/watch?v=4DAlcBX5IIc",
+            "percent": 100,
+            "hz": 144
+        },
+
+         {
+            "user": "Pere6464",
+            "link": "https://youtu.be/sMZHRs7L_0Y",
+            "percent": 100,
+            "hz": 120
+        },
+
+        {
+            "user": "Zonixs",
+            "link": "https://youtu.be/FXPSuKJqcXE?si=gUsShM0MKWaMwVwD",
+            "percent": 100,
+            "hz": 90
+        },
+
+
+        {
+            "user": "Vairok",
+            "link": "https://youtu.be/FX1pu-jm1Tw",
+            "percent": 100,
+            "hz": 60
+        },
+
+        {
+            "user": "Miguelito4000",
+            "link": "https://youtu.be/CL4_UV3DMgs",
+            "percent": 100,
+            "hz": 120
+       }
+     
+
+    ]
+}
