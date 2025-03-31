@@ -1,1 +1,20 @@
+{
+    "id": 87425029,
+    "name": "Niwa",
+    "author": "Teno",
+    "creators": ["Teno"],
+    "verifier": "Twoft",
+    "verification": "https://www.youtube.com/watch?v=Df36eSqetQo&t=15s",
+    "percentToQualify": "60",
+    "password": "Free to copy",
+    "records": [
 
+        {
+            "user": "Pere6464",
+            "link": "https://youtu.be/wJovd5NCGUc",
+            "percent": 100,
+            "hz": 120
+       }
+
+    ]
+}
