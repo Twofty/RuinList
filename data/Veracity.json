@@ -1,1 +1,31 @@
+{
+    "id": 94314678,
+    "name": "VeracitY",
+    "author": "BlueLite",
+    "creators": ["BlueLite"],
+    "verifier": "Twoft",
+    "verification": "https://youtu.be/8yNUO_j-3mk",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+        {
+            "user": "Pere6464",
+            "link": "https://www.youtube.com/watch?v=twOp7TVf6WM",
+            "percent": 100,
+            "hz": 120
+       },
+
+        {
+            "user": "Vairok",
+            "link": "https://youtu.be/WFcoOM7Qzds",
+            "percent": 100,
+            "hz": 60
+       }
+
+
+
+
+
+    ]
+}
