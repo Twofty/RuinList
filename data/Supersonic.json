@@ -1,1 +1,20 @@
+{
+    "id": 4706930,
+    "name": "Supersonic",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha"],
+    "verifier": "Twoft",
+    "verification": "https://www.youtube.com/watch?v=jGh9zSMF47c&t=13s",
+    "percentToQualify": "74",
+    "password": "Free to copy",
+    "records": [
 
+        {
+            "user": "Gerthel",
+            "link": "https://youtu.be/4V5TSAXwTZk?si=b1vRxVgi9_NpYdjV",
+            "percent": 100,
+            "hz": 60
+        }
+
+    ]
+}
