@@ -1,1 +1,27 @@
+{
+    "id": 18834999,
+    "name": "Verity",
+    "author": "Serponge",
+    "creators": ["Serponge"],
+    "verifier": "Twoft",
+    "verification": "https://www.youtube.com/watch?v=yyPfEvoFeY0",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+      {
+            "user": "Pere6464",
+            "link": "https://youtu.be/sZxnLvYx2ms",
+            "percent": 100,
+            "hz": 120
+        },
+
+        {
+            "user": "Gerthel",
+            "link": "https://www.youtube.com/watch?v=5u4DQXQdnAY",
+            "percent": 100,
+            "hz": 60
+       }
+
+    ]
+}
