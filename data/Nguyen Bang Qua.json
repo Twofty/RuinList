@@ -1,1 +1,22 @@
+{
+    "id": 111107882,
+    "name": "Nguyen Bang Qua",
+    "author": "Emily419",
+    "creators": ["Emily419"],
+    "verifier": "Miguelito4000",
+    "verification": "https://youtu.be/SptiP_ib-7E",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+      {
+            "user": "Pere6464",
+            "link": "https://youtu.be/6btEUGgT_h4",
+            "percent": 100,
+            "hz": 120
+       }
+
+  
+
+    ]
+}
