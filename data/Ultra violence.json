@@ -1,1 +1,27 @@
+{
+    "id": 60887211,
+    "name": "Ultra violence",
+    "author": "Xender Game",
+    "creators": ["Xender Game"],
+    "verifier": "Gerthel",
+    "verification": "https://www.youtube.com/watch?v=YS57Aez9Avw",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+     {
+            "user": "Pere6464",
+            "link": "https://www.youtube.com/watch?v=IDeMJRi2rK0",
+            "percent": 100,
+            "hz": 120
+       },
+
+         {
+            "user": "Twoft",
+            "link": "https://youtu.be/oC_s2bDQsO4",
+            "percent": 100,
+            "hz": 244
+       }
+
+    ]
+}
