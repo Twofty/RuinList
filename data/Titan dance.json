@@ -1,1 +1,20 @@
+{
+    "id": 34717331,
+    "name": "Titan dance",
+    "author": "Tartofrez",
+    "creators": ["Tartofrez"],
+    "verifier": "Twoft",
+    "verification": "https://youtu.be/UrX5sVoCvbs",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+        {
+            "user": "Vairok",
+            "link": "https://youtu.be/xwtmZjh5E2Y",
+            "percent": 100,
+            "hz": 60
+         }
+
+    ]
+}
