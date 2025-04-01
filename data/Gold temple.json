@@ -1,1 +1,28 @@
+{
+    "id": 21337579,
+    "name": "Gold temple",
+    "author": "Serponge",
+    "creators": ["Serponge"],
+    "verifier": "Gerthel",
+    "verification": "https://www.youtube.com/watch?v=iNAhqX3ejKA",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+         {
+            "user": "Twoft",
+            "link": "https://youtu.be/jZ5Kjf6o9mg",
+            "percent": 100,
+            "hz": 144
+         },
+
+
+        {
+            "user": "Pere6464",
+            "link": "https://youtu.be/gkLM7q3EHUc",
+            "percent": 100,
+            "hz": 120
+       }
+
+    ]
+}
