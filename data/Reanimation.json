@@ -1,1 +1,34 @@
+{
+    "id": 14975695,
+    "name": "Reanimation",
+    "author": "Terron",
+    "creators": ["Terron"],
+    "verifier": "Twoft",
+    "verification": "https://youtu.be/PlrzZyG63xo",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+            {
+            "user": "Pere6464",
+            "link": "https://youtu.be/EtAW41pL1OM",
+            "percent": 100,
+            "hz": 60
+        },
+        
+        {
+            "user": "Vairok",
+            "link": "https://youtu.be/L8TKDVZFRzw",
+            "percent": 100,
+            "hz": 60
+       },
+        {
+            "user": "Gerthel",
+            "link": "https://www.youtube.com/watch?v=hkj4g3lwjF4",
+            "percent": 100,
+            "hz": 60
+       }
+
+
+    ]
+}
