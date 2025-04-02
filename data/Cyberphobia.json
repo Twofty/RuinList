@@ -1,1 +1,28 @@
+{
+    "id": 98904941,
+    "name": "Cyberphobia",
+    "author": "Zubwar",
+    "creators": ["Zubwar"],
+    "verifier": "twoft",
+    "verification": "https://youtu.be/0z-TEzUd29s",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+        {
+            "user": "Vairok",
+            "link": "https://youtu.be/cFluzE7msQI",
+            "percent": 100,
+            "hz": 60
+       },
+
+
+         {
+            "user": "Pere6464",
+            "link": "https://youtu.be/gq-8EtJDWWw",
+            "percent": 100,
+            "hz": 120
+       }
+
+    ]
+}
