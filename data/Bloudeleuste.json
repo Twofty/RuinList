@@ -1,1 +1,22 @@
+{
+    "id": 77428474,
+    "name": "Bloudeleuste",
+    "author": "MrSpaghetti",
+    "creators": ["MrSpaghetti"],
+    "verifier": "Pere6464",
+    "verification": "https://youtu.be/RCNsSG--qcw",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+       {
+            "user": "Miguelito4000",
+            "link": "https://youtu.be/lbhvAIybBv4",
+            "percent": 100,
+            "hz": 120
+       }
+
+
+
+    ]
+}
