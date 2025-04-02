@@ -1,1 +1,28 @@
+{
+    "id": 55644969,
+    "name": "God yeeter",
+    "author": "Danzmen",
+    "creators": ["Danzmen"],
+    "verifier": "Twoft",
+    "verification": "https://youtu.be/QUnu-rCgbCQ",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+       {
+            "user": "Twoft",
+            "link": "https://youtu.be/_W38KwWXCMc",
+            "percent": 100,
+            "hz": 144
+       },
+
+
+          {
+            "user": "Pere6464",
+            "link": "https://youtu.be/wyi-kE_hPng",
+            "percent": 100,
+            "hz": 60
+       }
+
+    ]
+}
