@@ -1,1 +1,22 @@
+{
+    "id": 76821414,
+    "name": "Zircon",
+    "author": "DHaner",
+    "creators": ["DHaner"],
+    "verifier": "Pere6464",
+    "verification": "https://youtu.be/4foARByLxu0",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+       {
+            "user": "Miguelito4000",
+            "link": "https://youtu.be/YsQrzDa9fIM",
+            "percent": 100,
+            "hz": 120
+       }
+
+    
+
+    ]
+}
