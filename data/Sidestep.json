@@ -1,1 +1,27 @@
+{
+    "id": 18025697,
+    "name": "Sidestep",
+    "author": "ChaSe",
+    "creators": ["ChaSe"],
+    "verifier": "Gerthel",
+    "verification": "https://www.youtube.com/watch?v=QnMZRYMY2-U",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+       {
+            "user": "Pere6464",
+            "link": "https://youtu.be/PO7jy5zEjG4",
+            "percent": 100,
+            "hz": 120
+       },
+
+        {
+            "user": "Twoft",
+            "link": "https://youtu.be/z3orheTzaV0",
+            "percent": 100,
+            "hz": 144
+       }
+
+    ]
+}
