@@ -1,1 +1,22 @@
+{
+    "id": 68675749,
+    "name": "Fizzy soda",
+    "author": "NukellX",
+    "creators": ["NukellX"],
+    "verifier": "Vairok",
+    "verification": "https://youtu.be/EzB1TS6NLFY",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+        {
+            "user": "Pere6464",
+            "link": "https://youtu.be/tqdFtDDneug?si=24VOgTmxorsE-hs6",
+            "percent": 100,
+            "hz": 120
+       }
+
+   
+
+    ]
+}
