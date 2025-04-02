@@ -1,1 +1,21 @@
+{
+    "id": 104184451,
+    "name": "Twenty four",
+    "author": "hychie",
+    "creators": ["hychie"],
+    "verifier": "Twoft",
+    "verification": "https://youtu.be/8tWlCuVesx4",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
+        
+       {
+            "user": "Pere6464",
+            "link": "https://youtu.be/e3ioNTYIy-s",
+            "percent": 100,
+            "hz": 120
+       }
 
+
+    ]
+}
