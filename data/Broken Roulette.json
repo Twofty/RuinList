@@ -1,1 +1,34 @@
+{
+    "id": 86650731,
+    "name": "Broken Roulette",
+    "author": "NoFlix",
+    "creators": ["NoFlix"],
+    "verifier": "Pere6464",
+    "verification": "https://youtu.be/PI7H-GLrhcM",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+       {
+            "user": "Vairok",
+            "link": "https://youtu.be/8Lwk7oYZS28",
+            "percent": 100,
+            "hz": 60
+       },
+
+        {
+            "user": "Twoft",
+            "link": "https://youtu.be/BeAlzXYbEAg",
+            "percent": 100,
+            "hz": 144
+        },
+
+       {
+            "user": "Miguelito4000",
+            "link": "https://youtu.be/5dzvS-ypbug",
+            "percent": 100,
+            "hz": 120
+       }
+
+    ]
+}
