@@ -1,1 +1,28 @@
+{
+    "id": 98821971,
+    "name": "Spider dance",
+    "author": "TomscursdeD",
+    "creators": ["TomscursdeD"],
+    "verifier": "Twoft",
+    "verification": "https://youtu.be/6j8C7VatZsQ",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+        {
+            "user": "Gerthel",
+            "link": "https://www.youtube.com/watch?v=FQss8a1zwA8",
+            "percent": 100,
+            "hz": 60
+       },
+
+        {
+            "user": "Pere6464",
+            "link": "https://youtu.be/FLhE0MnoSUg",
+            "percent": 100,
+            "hz": 144
+       }
+
+
+    ]
+}
