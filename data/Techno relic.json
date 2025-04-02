@@ -1,1 +1,28 @@
+{
+    "id": 105201469,
+    "name": "Techno relic",
+    "author": "beljakov",
+    "creators": ["beljakov"],
+    "verifier": "Vairok",
+    "verification": "https://youtu.be/kEUSrfpHoiI",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+
+         {
+            "user": "Twoft",
+            "link": "https://youtu.be/h4fqovue-nY",
+            "percent": 100,
+            "hz": 144
+         },
+
+          {
+            "user": "Pere6464",
+            "link": "https://youtu.be/wzWDbWAt6Io",
+            "percent": 100,
+            "hz": 120
+        }
+
+    ]
+}
