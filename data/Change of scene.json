@@ -1,1 +1,28 @@
+{
+    "id": 90475473,
+    "name": "Change of scene",
+    "author": "bli",
+    "creators": ["bli"],
+    "verifier": "Gerthel",
+    "verification": "https://www.youtube.com/watch?v=i2ekFtbQE1k",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
 
+       {
+            "user": "Vairok",
+            "link": "https://youtu.be/GH57yljeThM",
+            "percent": 100,
+            "hz": 60
+       },
+
+
+         {
+            "user": "Pere6464",
+            "link": "https://youtu.be/1WodsTJFRt8",
+            "percent": 100,
+            "hz": 60
+        }
+
+    ]
+}
