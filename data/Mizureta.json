@@ -5,16 +5,9 @@
     "creators": ["Dutchiee"],
     "verifier": "Pere6464",
     "verification": "https://youtu.be/8r-fR9BQ63Q",
-    "percentToQualify": "100",
+    "percentToQualify": "51",
     "password": "Free to copy",
     "records": [
 
-      {
-            "user": "Twoft",
-            "link": "https://www.youtube.com/watch?v=fX5O4_AQveU",
-            "percent": 100,
-            "hz": 144
-         }
-
-
     ]
+}
