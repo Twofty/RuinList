@@ -15,9 +15,7 @@
             "link": "https://youtu.be/f7nw-L3DfTo",
             "percent": 100,
             "hz": 120
-        }
-
-},
+       },
 
         {
             "user": "Twoft",
@@ -25,6 +23,10 @@
             "percent": 100,
             "hz": 144
        }
+
+
+
+
 
     ]
 }
