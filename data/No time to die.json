@@ -9,7 +9,12 @@
     "password": "Free to copy",
     "records": [
 
-   
+        {
+            "user": "YeidenZaJax",
+            "link": "https://youtu.be/hc5Sc8JQuIo?si=NxESSd7hmTYEpt_d",
+            "percent": 100,
+            "hz": 60
+        }
 
     ]
 }
