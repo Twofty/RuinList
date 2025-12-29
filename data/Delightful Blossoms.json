@@ -3,18 +3,18 @@
     "name": "Delightful Blossoms",
     "author": "Sparkle224",
     "creators": ["Sparkle224"],
-    "verifier": "Twoft",
-    "verification": "https://youtu.be/C8B1lnxRYxw",
+    "verifier": "Pere6464",
+    "verification": "https://youtu.be/ikRRa3tOslM",
     "percentToQualify": "66",
     "password": "Free to copy",
     "records": [
 
 
             {
-            "user": "Pere6464",
-            "link": "https://youtu.be/ikRRa3tOslM",
+            "user": "Twoft",
+            "link": "https://youtu.be/C8B1lnxRYxw",
             "percent": 100,
-            "hz": 120
+            "hz": 144
        }
 
     ]
