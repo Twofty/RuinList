@@ -1,1 +1,20 @@
+{
+    "id": 76159556,
+    "name": "PAY",
+    "author": "PDKGD",
+    "creators": ["PDKGD"],
+    "verifier": "Vairok",
+    "verification": "https://youtu.be/sYIPTjJjAbk",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Pere6464",
+            "link": "https://youtu.be/KHzALasIBGU",
+            "percent": 100,
+            "hz": 120
+       }
 
+
+    ]
+}
