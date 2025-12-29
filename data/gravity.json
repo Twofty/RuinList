@@ -5,7 +5,7 @@
     "creators": ["KazaGD"],
     "verifier": "Pere6464",
     "verification": "https://youtu.be/URiLfAU-OUI",
-    "percentToQualify": 52,
+    "percentToQualify": "52",
     "records": [
      {
             "user": "Twoft",
@@ -13,6 +13,5 @@
             "percent": 100,
             "hz": 144
        }
-
     ]
 }
