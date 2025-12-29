@@ -3,13 +3,18 @@
     "name": "ILOVECYAN",
     "author": "AVRG",
     "creators": ["AVRG"],
-    "verifier": "Twoft",
+    "verifier": "Vairok",
     "verification": "https://youtu.be/2u2HIEYwRSY",
     "percentToQualify": "62",
     "password": "Free to copy",
     "records": [
 
-     
+           {
+            "user": "Twoft",
+            "link": "https://youtu.be/5vqRtTeUkMQ",
+            "percent": 100,
+            "hz": 144
+       }
         
 
     ]
