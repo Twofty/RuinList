@@ -3,16 +3,16 @@
     "name": "Explicit",
     "author": "Renn241",
     "creators": ["Renn241"],
-    "verifier": "Twoft",
-    "verification": "https://www.youtube.com/watch?v=Vjm2zzrUujE",
+    "verifier": "Pere6464",
+    "verification": "https://youtu.be/HvHjENs1Okc",
     "percentToQualify": "76",
     "password": "Free to copy",
     "records": [
        {
-            "user": "Pere6464",
-            "link": "https://youtu.be/HvHjENs1Okc",
+            "user": "Twoft",
+            "link": "https://www.youtube.com/watch?v=Vjm2zzrUujE",
             "percent": 100,
-            "hz": 120
+            "hz": 144
        }
    
 
