@@ -14,6 +14,12 @@
             "link": "https://www.youtube.com/watch?v=HTuSerTsmyc",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Lerxmon",
+            "link": "https://youtu.be/dbH9j9MfWwI",
+            "percent": 100,
+            "hz": 144
         }
 
     ]
