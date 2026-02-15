@@ -8,6 +8,11 @@
     "percentToQualify": "42",
     "password": "46290",
     "records": [
-     
+        {
+            "user": "Lerxmon",
+            "link": "https://youtu.be/oaGlO-TrSns",
+            "percent": 100,
+            "hz": 144
+       }
     ]
 }
