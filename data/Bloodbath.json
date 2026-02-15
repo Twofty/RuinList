@@ -8,7 +8,12 @@
     "percentToQualify": 52,
     "password": "Free To Copy",
     "records": [
-        
+        {
+            "user": "Lerxmon",
+            "link": "https://youtu.be/dbH9j9MfWwI?t=103",
+            "percent": 100,
+            "hz": 144
+       }
     ]
    
 }
