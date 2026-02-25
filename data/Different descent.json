@@ -14,9 +14,14 @@
             "link": "https://youtu.be/aitPjqOKSxY",
             "percent": 100,
             "hz": 144
-       }
+        },
 
-
+        {
+            "user": "Vairok",
+            "link": "https://youtu.be/EuFPjgkKork",
+            "percent": 100,
+            "hz": 144
+        }
 
     ]
 }
