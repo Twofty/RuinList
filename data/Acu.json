@@ -21,8 +21,13 @@
             "link": "https://www.youtube.com/watch?v=HgLJMUP2rBA",
             "percent": 100,
             "hz": 120
+       },
+         {
+            "user": "Nistagmu",
+            "link": "",
+            "percent": 100,
+            "hz": 60
        }
- 
 
     ]
 }
