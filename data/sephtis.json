@@ -8,5 +8,12 @@
     "percentToQualify": "72",
     "password": "Free to copy",
     "records": [
+     {
+            "user": "Vairok",
+            "link": "https://youtu.be/t_LqX1TeeCU",
+            "percent": 100,
+            "hz": 144
+       }
+
     ]
 }
