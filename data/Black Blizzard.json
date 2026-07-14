@@ -5,9 +5,18 @@
     "creators": ["KrmaL"],
     "verifier": "Vairok",
     "verification": "https://youtu.be/jfRirZKazPU",
-    "percentToQualify": "65",
+    "percentToQualify": "63",
     "password": "Free to copy",
     "records": [
+
+       {
+            "user": "Twoft",
+            "link": "https://youtu.be/CxjDIAJcD3Y",
+            "percent": 100,
+            "hz": 240
+       }
+
+
 
     ]
 }
