@@ -1,13 +1,13 @@
 {
     "id": 118533277,
     "name": "Momentary Affection",
-    "author": "TheBlackHell ",
-    "creators": ["TheBlackHell "],
+    "author": "TheBlackHell",
+    "creators": ["TheBlackHell"],
     "verifier": "Twoft",
     "verification": "https://youtu.be/DJVYoxUIsHM&t=377s",
     "percentToQualify": "63",
     "password": "Free to copy",
-    "records": [
+    "records":
 
         {
             "user": "Vairok",
@@ -16,6 +16,5 @@
             "hz": 144
        }
 
-    
-
     ]
+}
